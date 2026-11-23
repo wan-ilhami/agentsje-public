@@ -8,7 +8,10 @@ writes one final answer back to you. Every agent is a real coding agent run head
 
 ## Screenshots
 
-_Screenshots go in [`assets/screenshots/`](./assets/screenshots/)._
+![The office floor: Executive, Paid Media and Sales zones, the CEO avatar, and the team roster](./assets/screenshots/office.png)
+
+The CEO stands on the Executive floor. Each department has its own zone of desks; the panel on the right lists the
+team, and the bar at the bottom briefs the Chief of Staff.
 
 ## What's inside
 
